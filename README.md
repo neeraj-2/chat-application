@@ -1,3 +1,16 @@
+# A REACTJS chat application, deployed on netlify: 
+https://relaxed-lamport-f10c0a.netlify.app/
+
+### Here is How the application look:
+
+
+![ScreenShot](src/assets/images/loginpage.jpg)
+![ScreenShot](src/assets/images/chatinterface.jpg)
+![ScreenShot](src/assets/images/society_ui.jpg)
+![ScreenShot](src/assets/images/peeps.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
